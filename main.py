@@ -1,5 +1,6 @@
 # Cutest picture entry: copy the image beside this file to /output/entry.png.
 # The image is a generated photo of a kitten and a puppy cuddling.
+# Deterministic: the same input always produces the same output file.
 import os
 import shutil
 
